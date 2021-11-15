@@ -1,0 +1,1 @@
+[%d{yyyy/MM/dd HH:mm:ss, UTC}|%X{uuid}|%X{hostname}|%X{pid}] %d [%t] %-5p %c[line:%L] - %m%n
